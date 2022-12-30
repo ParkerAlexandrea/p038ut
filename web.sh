@@ -1,5 +1,5 @@
 #UUID
-export id='**此处填写UUID**'
+export id='**d96ffc1f-da79-4108-ae9a-bd2505e755a9**'
 export PORT=8080
 
 echo '{
